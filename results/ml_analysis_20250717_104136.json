@@ -1,0 +1,117 @@
+{
+  "analysis_timestamp": "2025-07-17T10:41:36.101390",
+  "summary": {
+    "stocks_analyzed": 10,
+    "patterns_detected": 1,
+    "ml_predictions": 10,
+    "trading_signals": 1
+  },
+  "predictions": {
+    "RELIANCE": {
+      "current_price": 1476.4000244140625,
+      "predicted_price": 1485.993994140625,
+      "price_change_pct": 0.6498218347273559,
+      "confidence": 0.9,
+      "model_mae": 16.07146143120658,
+      "model_mse": 555.6931029790002
+    },
+    "TCS": {
+      "current_price": 3209.199951171875,
+      "predicted_price": 3256.50830078125,
+      "price_change_pct": 1.4741477729394776,
+      "confidence": 0.9,
+      "model_mae": 31.149967976359523,
+      "model_mse": 1267.4273353358824
+    },
+    "HDFCBANK": {
+      "current_price": 1986.9000244140625,
+      "predicted_price": 1993.906025390625,
+      "price_change_pct": 0.3526096376504193,
+      "confidence": 0.9,
+      "model_mae": 18.586810512772793,
+      "model_mse": 558.6679700327305
+    },
+    "INFY": {
+      "current_price": 1583.5,
+      "predicted_price": 1569.4457800292969,
+      "price_change_pct": -0.8875415200949236,
+      "confidence": 0.9,
+      "model_mae": 20.506706556532116,
+      "model_mse": 745.47538818313
+    },
+    "ICICIBANK": {
+      "current_price": 1418.699951171875,
+      "predicted_price": 1428.4857233479818,
+      "price_change_pct": 0.6897703892936295,
+      "confidence": 0.9,
+      "model_mae": 12.00249768027655,
+      "model_mse": 291.2190175304605
+    },
+    "KOTAKBANK": {
+      "current_price": 2170.800048828125,
+      "predicted_price": 2180.5320068359374,
+      "price_change_pct": 0.44831204113276424,
+      "confidence": 0.9,
+      "model_mae": 29.021272460937567,
+      "model_mse": 1638.745213549197
+    },
+    "SBIN": {
+      "current_price": 829.0,
+      "predicted_price": 821.6630029296875,
+      "price_change_pct": -0.8850418661414311,
+      "confidence": 0.9,
+      "model_mae": 7.616118910047741,
+      "model_mse": 101.00947459395572
+    },
+    "BHARTIARTL": {
+      "current_price": 1929.9000244140625,
+      "predicted_price": 1936.3199731445313,
+      "price_change_pct": 0.33265706250343174,
+      "confidence": 0.9,
+      "model_mae": 25.19011539237948,
+      "model_mse": 912.0389670082827
+    },
+    "ITC": {
+      "current_price": 423.95001220703125,
+      "predicted_price": 422.27765138753256,
+      "price_change_pct": -0.3944712280564845,
+      "confidence": 0.9,
+      "model_mae": 3.190320317247169,
+      "model_mse": 17.262077121458024
+    },
+    "LT": {
+      "current_price": 3474.0,
+      "predicted_price": 3505.6040234375,
+      "price_change_pct": 0.909730093192286,
+      "confidence": 0.9,
+      "model_mae": 52.91353750000005,
+      "model_mse": 6378.572899983718
+    }
+  },
+  "signals": [
+    {
+      "symbol": "SBIN",
+      "signal_type": "BUY",
+      "strength": "MODERATE",
+      "confidence": 0.75,
+      "entry_price": 829.0,
+      "target_price": 870.45,
+      "stop_loss": 804.13,
+      "reasoning": [
+        "High volume (2.1x) with price above SMA20"
+      ],
+      "source": "pattern_analysis",
+      "timestamp": "2025-07-17T10:41:36.101108"
+    }
+  ],
+  "patterns": {
+    "SBIN": [
+      {
+        "type": "volume_breakout",
+        "signal": "bullish",
+        "confidence": 0.75,
+        "description": "High volume (2.1x) with price above SMA20"
+      }
+    ]
+  }
+}
