@@ -1,0 +1,4 @@
+pair,correlation,long_stock,short_stock,spread_opportunity,risk_level
+TCS-INFY,0.798,TCS,INFY,7.58,High
+TCS-HCLTECH,0.737,TCS,HCLTECH,3.81,High
+INFY-HCLTECH,0.781,HCLTECH,INFY,3.77,High
