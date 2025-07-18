@@ -1,0 +1,62 @@
+{
+  "timestamp": "2025-07-18T07:13:12.703398",
+  "current_price": 6350.47,
+  "predictions": {
+    "Current_Price": 6350.47,
+    "Today_Range_High": 6690.04,
+    "Today_Range_Low": 6010.9,
+    "Upside_Target": 6560.32,
+    "Downside_Target": 6140.62,
+    "Immediate_Resistance": 6576.85,
+    "Immediate_Support": 6124.09,
+    "Bullish_Probability": 35.0,
+    "Bearish_Probability": 65.0,
+    "Expected_Volatility": 226.38,
+    "Prediction_Factors": [
+      [
+        "RSI Neutral",
+        0
+      ],
+      [
+        "Weak Trend",
+        -0.15
+      ]
+    ],
+    "Week_High_Target": 6690.04,
+    "Week_Low_Target": 5926.01
+  },
+  "trading_levels": {
+    "Current_Price": 6350.47,
+    "Pivot_Point": 6418.1,
+    "Resistance_1": 6706.97,
+    "Resistance_2": 6984.24,
+    "Resistance_3": 7273.11,
+    "Support_1": 6140.83,
+    "Support_2": 5851.96,
+    "Support_3": 5574.69,
+    "VWAP": 11244.86,
+    "Options_Strike_Base": 6350,
+    "ATM_Call": 6350,
+    "ATM_Put": 6350,
+    "OTM_Call_1": 6400,
+    "OTM_Call_2": 6450,
+    "OTM_Put_1": 6300,
+    "OTM_Put_2": 6250
+  },
+  "trading_signals": {
+    "Primary_Signal": "HOLD/WAIT",
+    "Signal_Strength": "NEUTRAL",
+    "Entry_Price": null,
+    "Stop_Loss": null,
+    "Target_1": null,
+    "Target_2": null,
+    "Risk_Reward_Ratio": null,
+    "Position_Size": "No position",
+    "Time_Frame": "5-minute to Intraday"
+  },
+  "patterns": {
+    "Trend": "STRONG DOWNTREND",
+    "Range": "Trading between 6130.90 - 6681.64",
+    "Volume": "NORMAL VOLUME"
+  }
+}
