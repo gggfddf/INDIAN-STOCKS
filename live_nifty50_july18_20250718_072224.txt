@@ -1,0 +1,71 @@
+================================================================================
+🚀 LIVE NIFTY 50 ANALYSIS - JULY 18, 2025 🚀
+================================================================================
+Analysis Time: 2025-07-18 07:22:24
+Market Status: LIVE TRADING SESSION
+
+📊 LIVE MARKET STATUS
+------------------------------
+Current NIFTY: 24940.00
+Day Open: 24985.00
+Day High: 24998.00
+Day Low: 24855.00
+Previous Close: 24995.00
+Day Change: -55.00 (-0.22%)
+Time Remaining: 8.1 hours
+
+🎯 TODAY'S REMAINING SESSION PREDICTIONS
+---------------------------------------------
+Expected High (Remaining): 24994.66
+Expected Low (Remaining): 24885.34
+Upside Target: 24977.08
+Downside Target: 24902.92
+Expected Volatility: ±60 points
+Bullish Probability: 50.0%
+Bearish Probability: 50.0%
+
+📊 KEY LIVE TRADING LEVELS
+------------------------------
+Immediate Resistance: 24950
+Immediate Support: 24900
+Resistance 1: 24990.00
+Resistance 2: 25040.00
+Support 1: 24890.00
+Support 2: 24840.00
+
+📈 LIVE OPTIONS LEVELS
+-------------------------
+ATM Strike: 24950
+Call Strikes: 25000, 25050, 25100
+Put Strikes: 24900, 24850, 24800
+
+🎯 LIVE PREDICTION FACTORS
+------------------------------
+Day Neutral: Neutral (+0.00)
+Mid Range: Neutral (+0.00)
+RSI Neutral: Neutral (+0.00)
+
+💡 LIVE TRADING STRATEGY
+------------------------------
+⚖️ NEUTRAL - Range trading
+• Buy near: 24890
+• Sell near: 24990
+• Options: Iron Condor strategy
+
+🎯 PSYCHOLOGICAL LEVELS TO WATCH
+-----------------------------------
+24800: ✅ ABOVE
+24850: ✅ ABOVE
+24900: ✅ ABOVE
+24950: ❌ BELOW
+25000: ❌ BELOW
+25050: ❌ BELOW
+25100: ❌ BELOW
+25150: ❌ BELOW
+25200: ❌ BELOW
+
+================================================================================
+📊 LIVE NIFTY 50 ANALYSIS COMPLETE
+⚠️ REAL-TIME DATA - Trade with proper risk management
+🕐 Valid for remaining trading session only
+================================================================================
