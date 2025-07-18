@@ -1,0 +1,90 @@
+================================================================================
+🚀 NIFTY 50 - 5 MINUTE COMPREHENSIVE ANALYSIS & PREDICTION 🚀
+================================================================================
+Analysis Date: 2025-07-18 07:13:12
+Timeframe: 5-minute intervals (4 months data)
+Data Points Analyzed: 6,375 intervals
+
+📊 CURRENT MARKET STATUS
+------------------------------
+Current NIFTY Price: 6350.47
+Market Trend: STRONG DOWNTREND
+Volume Activity: NORMAL VOLUME
+Chart Pattern: Trading between 6130.90 - 6681.64
+
+🎯 TODAY'S PRICE PREDICTIONS
+-----------------------------------
+Expected High: 6690.04
+Expected Low: 6010.9
+Upside Target: 6560.32
+Downside Target: 6140.62
+Expected Volatility: 226.38 points
+Bullish Probability: 35.0%
+Bearish Probability: 65.0%
+
+📅 WEEKLY OUTLOOK
+--------------------
+Week High Target: 6690.04
+Week Low Target: 5926.01
+
+📊 KEY TRADING LEVELS
+-------------------------
+Pivot Point: 6418.1
+Resistance 1: 6706.97
+Resistance 2: 6984.24
+Resistance 3: 7273.11
+Support 1: 6140.83
+Support 2: 5851.96
+Support 3: 5574.69
+VWAP: 11244.86
+
+📈 OPTIONS TRADING LEVELS
+------------------------------
+ATM Strike: 6350
+OTM Call 1: 6400
+OTM Call 2: 6450
+OTM Put 1: 6300
+OTM Put 2: 6250
+
+⚡ TRADING SIGNALS
+--------------------
+Primary Signal: HOLD/WAIT
+Signal Strength: NEUTRAL
+
+🔧 TECHNICAL INDICATORS
+-------------------------
+RSI (14): 49.38
+MACD: -0.85
+MACD Signal: -5.44
+Stochastic K: 39.08
+Bollinger Upper: 6640.30
+Bollinger Lower: 6217.55
+ATR: 226.38
+Volume Ratio: 1.23
+
+🎯 PREDICTION FACTORS
+-------------------------
+RSI Neutral: Neutral (+0.00)
+Weak Trend: Bearish (-0.15)
+
+⚠️ RISK ASSESSMENT
+--------------------
+Current Risk Level: LOW
+Volatility vs Average: 0.57x
+Volume vs Average: 1.23x
+
+💡 MARKET RECOMMENDATIONS
+------------------------------
+• Market in consolidation - wait for clear direction
+• Consider range trading strategies
+• Iron condor or butterfly spreads may work
+
+• Always use stop losses
+• Position size according to risk tolerance
+• Monitor key levels for breakouts/breakdowns
+
+================================================================================
+📊 ANALYSIS COMPLETE - Use for educational purposes only
+⚠️ Past performance does not guarantee future results
+💼 Please consult your financial advisor before trading
+================================================================================

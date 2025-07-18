@@ -1,0 +1,91 @@
+{
+  "timestamp": "2025-07-17 11:00:19",
+  "summary": {
+    "stocks_analyzed": 107,
+    "anomaly_stocks": 107,
+    "correlation_pairs": 203,
+    "sectors_analyzed": 8
+  },
+  "top_anomalies": [
+    "COFORGE",
+    "CDSL",
+    "INDUSINDBK",
+    "INTELLECT",
+    "COLPAL",
+    "ADANIPOWER",
+    "GLENMARK",
+    "ADANIGREEN",
+    "PEL",
+    "SIEMENS",
+    "TATAELXSI",
+    "DRREDDY",
+    "AUROPHARMA",
+    "BEL",
+    "IDFCFIRSTB",
+    "TATACONSUM",
+    "PERSISTENT",
+    "IDEA",
+    "KOTAKBANK",
+    "TCS"
+  ],
+  "top_correlations": [
+    "HDFCBANK-NIFTY50",
+    "HDFCBANK-BANKNIFTY",
+    "ICICIBANK-NIFTY50",
+    "ICICIBANK-BANKNIFTY",
+    "SBIN-BANKBARODA",
+    "SBIN-PNB",
+    "SBIN-LICHSGFIN",
+    "SBIN-PFC",
+    "SBIN-RECLTD",
+    "SBIN-NIFTY50",
+    "SBIN-BANKNIFTY",
+    "KOTAKBANK-BANKNIFTY",
+    "AXISBANK-NIFTY50",
+    "AXISBANK-BANKNIFTY",
+    "BANKBARODA-PNB",
+    "BANKBARODA-LICHSGFIN",
+    "BANKBARODA-SJVN",
+    "BANKBARODA-PFC",
+    "BANKBARODA-RECLTD",
+    "BANKBARODA-BANKNIFTY"
+  ],
+  "insights": {
+    "volume_anomaly_stocks": [
+      "COFORGE",
+      "ADANIPOWER",
+      "PEL",
+      "DRREDDY",
+      "IDFCFIRSTB",
+      "PERSISTENT",
+      "BHEL",
+      "IOC",
+      "LUPIN",
+      "COALINDIA"
+    ],
+    "price_anomaly_stocks": [
+      "COFORGE",
+      "PEL",
+      "PERSISTENT",
+      "KOTAKBANK",
+      "TCS",
+      "HAVELLS",
+      "JSWSTEEL",
+      "HINDALCO"
+    ],
+    "gap_anomaly_stocks": [
+      "CDSL",
+      "INDUSINDBK",
+      "ADANIPOWER",
+      "GLENMARK",
+      "ADANIGREEN",
+      "TATAELXSI",
+      "IDFCFIRSTB",
+      "IDEA",
+      "WIPRO",
+      "TATAMOTORS"
+    ],
+    "strong_correlations": 4,
+    "mean_reversion_candidates": 22
+  }
+}

@@ -1,0 +1,81 @@
+symbol,current_price,predicted_price,percentage_change,timeframe,confidence,reasoning,sector,market_cap,rsi,macd,volume_ratio,price_vs_sma20,volatility,support_distance,resistance_distance
+DRREDDY,1263.1,1318.07,4.35,2-3 weeks,50,Consolidating near SMA20; Neutral RSI (45.4); Below average volume; Bearish MACD,Pharma,Mid Cap,45.4,-5.2897,0.51,-1.61,1.02,1.75,6.5
+TCS,3209.2,3347.37,4.31,2-3 weeks,75,Consolidating near SMA20; Oversold RSI (28.8); Bearish MACD,IT,Large Cap,28.8,-20.678,1.08,-4.55,1.02,0.62,8.38
+BIOCON,397.0,412.37,3.87,3-4 weeks,75,Strong uptrend above SMA20; Overbought RSI (76.3); Below average volume; Bullish MACD,Pharma,Small Cap,76.3,2.3557,0.65,7.76,1.14,13.7,2.24
+INTELLECT,1197.7,1241.14,3.63,3-4 weeks,60,Consolidating near SMA20; Neutral RSI (62.2); Below average volume; Bullish MACD,Others,Mid Cap,62.2,1.0076,0.49,4.95,1.97,12.89,1.03
+BAJFINANCE,923.3,955.36,3.47,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (48.9); Below average volume; Bearish MACD,Others,Small Cap,48.9,-1.5631,0.6,-0.51,1.18,4.04,3.92
+GAIL,185.29,190.52,2.82,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (45.3); Below average volume; Bearish MACD,Others,Mid Cap,45.3,-0.5673,0.58,-1.12,1.35,3.17,5.48
+COALINDIA,385.9,396.2,2.67,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (45.4); Below average volume; Bullish MACD,Others,Small Cap,45.4,0.1358,0.69,-0.51,0.66,1.37,3.06
+COFORGE,1865.3,1907.29,2.25,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (51.2); Below average volume; Bearish MACD,Others,Mid Cap,51.2,-14.882,0.55,-1.69,1.04,4.57,6.9
+BOSCHLTD,38645.0,39484.03,2.17,3-4 weeks,75,Strong uptrend above SMA20; Overbought RSI (84.4); Below average volume; Bullish MACD,Others,Mid Cap,84.4,410.4338,0.71,11.58,1.93,18.66,0.54
+TATACONSUM,1105.8,1126.6,1.88,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (53.6); Bearish MACD,Others,Small Cap,53.6,-0.2035,1.08,0.58,1.16,3.46,4.0
+BANDHANBNK,185.19,188.34,1.7,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (58.9); Bearish MACD,Others,Mid Cap,58.9,-0.2651,0.82,2.03,1.5,6.15,3.94
+PERSISTENT,5494.5,5574.3,1.45,3-4 weeks,60,Strong downtrend below SMA20; Neutral RSI (32.2); Bearish MACD,Others,Mid Cap,32.2,-56.3306,1.02,-6.09,1.14,0.35,12.17
+IDFCFIRSTB,73.48,74.33,1.16,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (50.5); Below average volume; Bearish MACD,Others,Mid Cap,50.5,-0.5551,0.61,-1.25,1.63,6.0,6.42
+HDFCLIFE,751.8,759.17,0.98,3-4 weeks,60,Consolidating near SMA20; Neutral RSI (39.3); Bearish MACD,Others,Small Cap,39.3,-5.933,1.12,-3.85,1.24,0.73,9.17
+DIVISLAB,6790.5,6836.0,0.67,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (53.9); Below average volume; Bearish MACD,Pharma,Small Cap,53.9,-19.2422,0.77,0.12,0.91,4.93,4.14
+SBILIFE,1802.8,1814.14,0.63,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (47.2); Below average volume; Bearish MACD,Others,Small Cap,47.2,-4.3078,0.73,-1.45,1.05,1.31,4.0
+BRITANNIA,5807.5,5839.37,0.55,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (57.2); Below average volume; Bearish MACD,FMCG,Small Cap,57.2,-11.6149,0.77,0.6,1.07,6.15,2.12
+RELIANCE,1476.4,1483.91,0.51,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (47.9); Bearish MACD,Others,Large Cap,47.9,-7.9097,1.13,-1.53,1.1,3.27,5.05
+HCLTECH,1543.9,1551.69,0.5,3-4 weeks,75,Strong downtrend below SMA20; Oversold RSI (24.4); Bearish MACD,IT,Mid Cap,24.4,-21.7123,1.47,-8.07,1.19,0.1,13.51
+AXISBANK,1159.8,1164.76,0.43,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (38.7); Bearish MACD,Banking,Mid Cap,38.7,-2.5689,0.98,-2.23,0.9,0.43,7.43
+ITC,423.95,425.34,0.33,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (59.3); Below average volume; Bullish MACD,FMCG,Large Cap,59.3,1.1249,0.64,1.56,0.57,3.0,0.46
+BPCL,346.75,347.55,0.23,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (62.3); Below average volume; Bullish MACD,Others,Mid Cap,62.3,0.1215,0.52,2.9,1.48,11.12,3.43
+SUNPHARMA,1703.4,1706.08,0.16,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (57.1); Below average volume; Bullish MACD,Pharma,Mid Cap,57.1,5.7386,0.71,1.69,0.86,3.71,1.64
+ICICIBANK,1418.7,1419.56,0.06,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (45.0); Bearish MACD,Banking,Large Cap,45.0,-1.6095,1.43,-0.88,0.75,0.65,3.33
+SAIL,133.6,133.62,0.02,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (54.3); Below average volume; Bearish MACD,Metals,Small Cap,54.3,-0.3286,0.5,0.44,1.67,6.62,4.78
+HDFCBANK,1986.9,1986.51,-0.02,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (55.1); Bearish MACD,Banking,Large Cap,55.1,-3.1669,1.21,0.07,0.85,3.84,1.8
+ADANIPOWER,598.65,598.35,-0.05,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (59.3); Below average volume; Bullish MACD,Others,Small Cap,59.3,0.5169,0.58,2.28,1.22,11.95,3.57
+BAJAJFINSV,2026.5,2022.0,-0.22,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (52.1); Below average volume; Bullish MACD,Others,Small Cap,52.1,1.025,0.33,0.32,1.0,3.79,2.07
+TATASTEEL,159.9,159.41,-0.31,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (53.6); Bearish MACD,Metals,Small Cap,53.6,-0.587,0.85,0.17,1.39,5.89,5.55
+POWERGRID,296.6,295.67,-0.31,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (51.6); Below average volume; Bullish MACD,Others,Small Cap,51.6,0.1939,0.79,0.31,0.98,3.89,2.06
+LUPIN,1955.7,1949.1,-0.34,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (51.3); Below average volume; Bullish MACD,Pharma,Small Cap,51.3,2.625,0.5,0.87,1.09,4.13,2.06
+LT,3474.0,3456.04,-0.52,3-4 weeks,60,Consolidating near SMA20; Neutral RSI (34.5); Bearish MACD,Others,Small Cap,34.5,-18.3409,1.39,-3.19,0.9,0.19,7.41
+HINDALCO,674.55,670.84,-0.55,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (52.2); Bearish MACD,Metals,Small Cap,52.2,-3.2557,0.81,-0.76,1.12,5.33,4.97
+BHARTIARTL,1929.9,1918.74,-0.58,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (46.1); Bearish MACD,Others,Small Cap,46.1,-14.6851,1.05,-2.54,1.35,2.9,6.01
+SBIN,829.0,823.82,-0.62,3-4 weeks,65,Consolidating near SMA20; Neutral RSI (64.5); Above average volume; Bullish MACD,Banking,Mid Cap,64.5,1.6316,2.13,2.41,0.85,5.17,1.63
+TECHM,1563.7,1553.38,-0.66,3-4 weeks,75,Consolidating near SMA20; Neutral RSI (40.4); Above average volume; Bearish MACD,IT,Mid Cap,40.4,-11.6765,3.23,-4.04,1.18,0.68,7.64
+CIPLA,1482.4,1472.02,-0.7,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (46.8); Bearish MACD,Pharma,Small Cap,46.8,-2.9343,1.0,-0.81,0.68,1.3,2.87
+COLPAL,2398.0,2378.31,-0.82,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (45.1); Bearish MACD,Others,Small Cap,45.1,-0.8286,0.87,-0.62,0.85,1.87,3.92
+NTPC,342.65,339.57,-0.9,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (57.9); Below average volume; Bullish MACD,Others,Small Cap,57.9,0.824,0.43,1.47,0.81,6.22,0.86
+KOTAKBANK,2170.8,2145.5,-1.17,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (50.2); Below average volume; Bearish MACD,Banking,Large Cap,50.2,-3.3833,0.58,-0.72,1.29,2.75,3.31
+DABUR,528.7,522.11,-1.25,3-4 weeks,75,Strong uptrend above SMA20; Overbought RSI (75.1); Below average volume; Bullish MACD,FMCG,Small Cap,75.1,3.2048,0.55,5.63,0.99,12.41,1.48
+IOC,150.96,148.89,-1.37,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (58.8); Below average volume; Bullish MACD,Others,Mid Cap,58.8,0.0256,0.46,1.87,1.26,9.64,2.68
+ULTRACEMCO,12495.0,12315.95,-1.43,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (66.2); Below average volume; Bearish MACD,Others,Small Cap,66.2,-0.4795,0.52,2.27,0.95,9.4,1.38
+EICHERMOT,5650.0,5568.3,-1.45,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (56.7); Bearish MACD,Others,Mid Cap,56.7,-12.4952,0.97,0.25,0.82,3.02,2.2
+DLF,847.05,834.48,-1.48,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (57.9); Bearish MACD,Others,Small Cap,57.9,-2.34,1.27,0.92,1.04,4.23,2.56
+GODREJCP,1278.2,1258.98,-1.5,3-4 weeks,60,Consolidating near SMA20; Neutral RSI (63.5); Below average volume; Bullish MACD,Others,Small Cap,63.5,7.6545,0.32,4.53,1.65,9.22,2.33
+TORNTPHARM,3504.6,3450.66,-1.54,3-4 weeks,60,Strong uptrend above SMA20; Neutral RSI (69.8); Bullish MACD,Others,Small Cap,69.8,13.7646,1.15,5.13,1.31,10.4,1.15
+NESTLEIND,2449.1,2411.13,-1.55,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (59.0); Below average volume; Bullish MACD,FMCG,Small Cap,59.0,4.1751,0.23,1.8,1.04,5.71,1.67
+TATAPOWER,413.45,407.05,-1.55,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (63.3); Bullish MACD,Others,Small Cap,63.3,0.8727,1.03,2.69,1.01,7.7,0.8
+VEDL,444.35,437.26,-1.6,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (47.3); Below average volume; Bearish MACD,Metals,Small Cap,47.3,-1.8927,0.27,-1.55,1.47,5.33,6.9
+TATAELXSI,6196.5,6093.23,-1.67,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (47.8); Below average volume; Bearish MACD,Others,Mid Cap,47.8,-0.1955,0.55,-0.6,1.21,8.66,3.92
+ADANIGREEN,1050.1,1032.3,-1.7,3-4 weeks,60,Consolidating near SMA20; Neutral RSI (65.3); Bullish MACD,Others,Small Cap,65.3,4.7617,1.01,4.66,1.22,10.96,0.46
+MARICO,733.3,720.7,-1.72,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (60.4); Below average volume; Bullish MACD,Others,Small Cap,60.4,1.0627,0.51,1.7,1.07,6.31,1.6
+ACC,1978.8,1943.03,-1.81,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (62.3); Below average volume; Bullish MACD,Others,Small Cap,62.3,3.9686,0.77,2.29,0.76,8.36,2.53
+BANKBARODA,246.52,242.04,-1.82,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (58.3); Below average volume; Bullish MACD,Others,Mid Cap,58.3,0.4233,0.7,2.14,1.2,6.17,1.64
+AUROPHARMA,1154.2,1132.66,-1.87,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (52.9); Below average volume; Bullish MACD,Others,Small Cap,52.9,2.1838,0.47,1.4,1.31,6.34,3.71
+WIPRO,260.6,255.39,-2.0,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (48.5); Bearish MACD,IT,Mid Cap,48.5,-1.3834,0.9,-1.59,1.2,3.43,4.14
+HEROMOTOCO,4443.6,4350.01,-2.11,3-4 weeks,60,Consolidating near SMA20; Neutral RSI (60.7); Below average volume; Bullish MACD,Auto,Mid Cap,60.7,11.2039,0.66,3.1,1.54,5.71,0.59
+SHREECEM,30845.0,30173.97,-2.18,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (53.1); Below average volume; Bearish MACD,Others,Small Cap,53.1,-26.2742,0.17,0.61,1.36,8.07,3.37
+NMDC,69.56,68.03,-2.2,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (52.5); Bullish MACD,Others,Small Cap,52.5,0.0738,1.05,1.09,1.27,3.68,4.13
+TITAN,3433.3,3354.3,-2.3,3-4 weeks,60,Consolidating near SMA20; Neutral RSI (42.0); Below average volume; Bearish MACD,Others,Small Cap,42.0,-23.7525,0.47,-3.13,1.72,2.6,8.21
+APOLLOHOSP,7350.5,7174.19,-2.4,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (54.9); Below average volume; Bearish MACD,Others,Small Cap,54.9,-22.5481,0.71,0.48,1.45,5.12,3.87
+ONGC,243.87,237.4,-2.65,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (49.5); Below average volume; Bearish MACD,Others,Mid Cap,49.5,-0.0834,0.63,-0.1,0.99,1.5,4.76
+ADANIPORTS,1452.5,1412.74,-2.74,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (59.7); Below average volume; Bullish MACD,Others,Small Cap,59.7,0.163,0.59,1.78,0.94,8.12,1.48
+GLENMARK,2226.7,2165.53,-2.75,3-4 weeks,90,Strong uptrend above SMA20; Overbought RSI (86.4); Above average volume; Bullish MACD,Others,Small Cap,86.4,38.9831,1.5,18.67,3.43,27.02,2.61
+HINDUNILVR,2509.8,2439.52,-2.8,3-4 weeks,75,Strong uptrend above SMA20; Overbought RSI (71.8); Below average volume; Bullish MACD,FMCG,Small Cap,71.8,20.1942,0.45,5.76,1.31,10.0,0.92
+LTTS,4411.6,4283.97,-2.89,3-4 weeks,65,Consolidating near SMA20; Neutral RSI (54.1); Above average volume; Bullish MACD,Others,Mid Cap,54.1,3.1518,3.98,1.24,1.0,3.66,2.0
+FEDERALBNK,212.59,206.1,-3.05,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (53.7); Below average volume; Bearish MACD,Others,Mid Cap,53.7,-0.5006,0.67,0.17,1.22,4.25,3.49
+MARUTI,12476.0,12091.75,-3.08,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (47.3); Below average volume; Bearish MACD,Auto,Mid Cap,47.3,-17.5692,0.6,-0.91,0.9,1.25,3.32
+ESCORTS,3410.9,3301.47,-3.21,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (59.8); Bullish MACD,Others,Mid Cap,59.8,6.5307,0.85,2.58,1.26,6.39,0.34
+INFY,1583.5,1531.69,-3.27,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (46.0); Bearish MACD,IT,Large Cap,46.0,-6.2753,1.08,-1.53,1.14,1.5,4.14
+BAJAJ-AUTO,8330.0,8050.57,-3.35,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (50.9); Bearish MACD,Auto,Mid Cap,50.9,-12.9879,0.84,-0.11,1.09,3.54,2.12
+ASIANPAINT,2398.9,2316.3,-3.44,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (55.2); Below average volume; Bearish MACD,Others,Small Cap,55.2,-4.0096,0.47,0.67,1.19,6.04,5.67
+JSWSTEEL,1034.2,997.34,-3.56,3-4 weeks,50,Consolidating near SMA20; Neutral RSI (54.6); Bearish MACD,Metals,Small Cap,54.6,-1.3939,0.82,0.38,1.0,5.16,2.97
+PNB,113.79,109.59,-3.69,3-4 weeks,60,Consolidating near SMA20; Neutral RSI (64.0); Bullish MACD,Others,Mid Cap,64.0,0.0742,0.91,3.61,1.6,11.66,1.69
+JINDALSTEL,950.45,910.58,-4.19,2-3 weeks,50,Consolidating near SMA20; Neutral RSI (54.1); Bearish MACD,Others,Small Cap,54.1,-0.7246,1.14,1.06,1.36,6.91,3.66
+INDUSINDBK,865.1,824.31,-4.72,2-3 weeks,50,Consolidating near SMA20; Neutral RSI (56.1); Below average volume; Bullish MACD,Banking,Mid Cap,56.1,0.3878,0.78,1.1,1.22,4.77,3.2
+TATAMOTORS,681.7,640.68,-6.02,2-3 weeks,50,Consolidating near SMA20; Neutral RSI (46.1); Bearish MACD,Auto,Mid Cap,46.1,-0.4035,0.81,-0.31,0.81,2.29,2.45
+IDEA,7.76,7.19,-7.34,2-3 weeks,60,Strong uptrend above SMA20; Neutral RSI (64.2); Below average volume; Bullish MACD,Others,Small Cap,64.2,0.05,0.59,6.11,2.4,18.56,2.32
+M&M,3195.0,2955.88,-7.48,2-3 weeks,50,Consolidating near SMA20; Neutral RSI (60.3); Bearish MACD,Auto,Mid Cap,60.3,-2.8264,1.27,1.34,1.27,4.43,1.35

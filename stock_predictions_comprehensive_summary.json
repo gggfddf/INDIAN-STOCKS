@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-07-17 11:38:20",
+  "total_predictions": 80,
+  "bullish_predictions": 25,
+  "bearish_predictions": 55,
+  "high_confidence_predictions": 1,
+  "average_predicted_return": -0.94625,
+  "max_predicted_return": 4.35,
+  "min_predicted_return": -7.48,
+  "sectors_analyzed": 7,
+  "pair_trading_opportunities": 3
+}

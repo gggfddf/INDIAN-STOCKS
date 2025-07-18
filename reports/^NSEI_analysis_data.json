@@ -1,0 +1,483 @@
+{
+  "symbol": "^NSEI",
+  "timestamp": "2025-07-18T12:00:53.699465",
+  "technical_signals": {
+    "5m": [
+      {
+        "indicator": "Bollinger_Band_Analysis",
+        "signal": "squeeze",
+        "strength": 0.7572019628115614,
+        "confidence": 0.8,
+        "value": 7.174294013129898,
+        "interpretation": "BB Squeeze: True, Position: 0.76"
+      },
+      {
+        "indicator": "VWAP_Analysis",
+        "signal": "above",
+        "strength": 9.759591156161495,
+        "confidence": 0.7,
+        "value": 23264.377885037808,
+        "interpretation": "Price vs VWAP: 9.76%"
+      },
+      {
+        "indicator": "RSI_Divergence",
+        "signal": "divergence",
+        "strength": 0.06319318237934482,
+        "confidence": 0.8,
+        "value": 53.15965911896724,
+        "interpretation": "RSI: 53.2, Divergence: True"
+      },
+      {
+        "indicator": "MACD_Analysis",
+        "signal": "bullish",
+        "strength": 126.38783876953343,
+        "confidence": 0.7,
+        "value": -106.67190538535215,
+        "interpretation": "MACD: -106.67, Signal: -233.06"
+      },
+      {
+        "indicator": "Volume_Analysis",
+        "signal": "low",
+        "strength": 0.6460719032491351,
+        "confidence": 0.6,
+        "value": "176991",
+        "interpretation": "Volume vs Average: 0.35x"
+      },
+      {
+        "indicator": "Volatility_Analysis",
+        "signal": "high",
+        "strength": 1.0736640992491397,
+        "confidence": 0.6,
+        "value": 548.3178086413116,
+        "interpretation": "ATR Ratio: 2.15%"
+      },
+      {
+        "indicator": "Moving_Average_Convergence",
+        "signal": "convergent_bullish",
+        "strength": 1.0,
+        "confidence": 0.8,
+        "value": 25063.70548138891,
+        "interpretation": "SMA vs EMA convergence: True"
+      },
+      {
+        "indicator": "Momentum_Analysis",
+        "signal": "strong_bullish",
+        "strength": 0.5873362417024252,
+        "confidence": 0.7,
+        "value": 2.936681208512126,
+        "interpretation": "10-period momentum: 2.94%"
+      },
+      {
+        "indicator": "Support_Resistance_Analysis",
+        "signal": "mid_range",
+        "strength": 0.21704264524988282,
+        "confidence": 0.6,
+        "value": 0.6085213226249414,
+        "interpretation": "Position in range: 0.61"
+      },
+      {
+        "indicator": "Trend_Strength_Composite",
+        "signal": "strong_bullish",
+        "strength": 1.0,
+        "confidence": 0.9,
+        "value": 1.0,
+        "interpretation": "Trend consensus: 1.00"
+      }
+    ],
+    "15m": [
+      {
+        "indicator": "Bollinger_Band_Analysis",
+        "signal": "squeeze",
+        "strength": 0.08706605761033835,
+        "confidence": 0.8,
+        "value": 9.654293723707635,
+        "interpretation": "BB Squeeze: True, Position: 0.09"
+      },
+      {
+        "indicator": "VWAP_Analysis",
+        "signal": "above",
+        "strength": 1.6058472469454448,
+        "confidence": 0.7,
+        "value": 26898.888613313255,
+        "interpretation": "Price vs VWAP: 1.61%"
+      },
+      {
+        "indicator": "RSI_Divergence",
+        "signal": "convergence",
+        "strength": 0.27720118323648435,
+        "confidence": 0.4,
+        "value": 36.13994083817578,
+        "interpretation": "RSI: 36.1, Divergence: False"
+      },
+      {
+        "indicator": "MACD_Analysis",
+        "signal": "bearish",
+        "strength": 73.76457025386128,
+        "confidence": 0.7,
+        "value": -216.7400887116819,
+        "interpretation": "MACD: -216.74, Signal: -142.98"
+      },
+      {
+        "indicator": "Volume_Analysis",
+        "signal": "low",
+        "strength": 0.43343173789914835,
+        "confidence": 0.6,
+        "value": "269664",
+        "interpretation": "Volume vs Average: 0.57x"
+      },
+      {
+        "indicator": "Volatility_Analysis",
+        "signal": "high",
+        "strength": 1.045488750508221,
+        "confidence": 0.6,
+        "value": 571.4817920941243,
+        "interpretation": "ATR Ratio: 2.09%"
+      },
+      {
+        "indicator": "Moving_Average_Convergence",
+        "signal": "convergent_bearish",
+        "strength": 1.0,
+        "confidence": 0.8,
+        "value": 28420.411145238955,
+        "interpretation": "SMA vs EMA convergence: True"
+      },
+      {
+        "indicator": "Momentum_Analysis",
+        "signal": "strong_bearish",
+        "strength": 0.8748768718742908,
+        "confidence": 0.7,
+        "value": -4.3743843593714535,
+        "interpretation": "10-period momentum: -4.37%"
+      },
+      {
+        "indicator": "Support_Resistance_Analysis",
+        "signal": "near_support",
+        "strength": 0.7930100464544222,
+        "confidence": 0.6,
+        "value": 0.10349497677278889,
+        "interpretation": "Position in range: 0.10"
+      },
+      {
+        "indicator": "Trend_Strength_Composite",
+        "signal": "strong_bearish",
+        "strength": 1.0,
+        "confidence": 0.9,
+        "value": 0.0,
+        "interpretation": "Trend consensus: 0.00"
+      }
+    ],
+    "1d": [
+      {
+        "indicator": "Bollinger_Band_Analysis",
+        "signal": "expansion",
+        "strength": 0.2789795355447249,
+        "confidence": 0.6,
+        "value": 12.807547822815696,
+        "interpretation": "BB Squeeze: False, Position: 0.28"
+      },
+      {
+        "indicator": "VWAP_Analysis",
+        "signal": "above",
+        "strength": 16.725417964391443,
+        "confidence": 0.7,
+        "value": 26700.78813929123,
+        "interpretation": "Price vs VWAP: 16.73%"
+      },
+      {
+        "indicator": "RSI_Divergence",
+        "signal": "divergence",
+        "strength": 0.024818173804384572,
+        "confidence": 0.8,
+        "value": 51.24090869021923,
+        "interpretation": "RSI: 51.2, Divergence: True"
+      },
+      {
+        "indicator": "MACD_Analysis",
+        "signal": "bearish",
+        "strength": 0.7818512357972907,
+        "confidence": 0.7,
+        "value": 78.291183302008,
+        "interpretation": "MACD: 78.29, Signal: 79.07"
+      },
+      {
+        "indicator": "Volume_Analysis",
+        "signal": "normal",
+        "strength": 0.2615679289579752,
+        "confidence": 0.6,
+        "value": "776529",
+        "interpretation": "Volume vs Average: 0.74x"
+      },
+      {
+        "indicator": "Volatility_Analysis",
+        "signal": "high",
+        "strength": 1.1251087459222542,
+        "confidence": 0.6,
+        "value": 701.3164323233907,
+        "interpretation": "ATR Ratio: 2.25%"
+      },
+      {
+        "indicator": "Moving_Average_Convergence",
+        "signal": "convergent_bearish",
+        "strength": 1.0,
+        "confidence": 0.8,
+        "value": 32048.849089582625,
+        "interpretation": "SMA vs EMA convergence: True"
+      },
+      {
+        "indicator": "Momentum_Analysis",
+        "signal": "neutral",
+        "strength": 0.2368732622164702,
+        "confidence": 0.7,
+        "value": -1.184366311082351,
+        "interpretation": "10-period momentum: -1.18%"
+      },
+      {
+        "indicator": "Support_Resistance_Analysis",
+        "signal": "mid_range",
+        "strength": 0.31227116874847094,
+        "confidence": 0.6,
+        "value": 0.34386441562576453,
+        "interpretation": "Position in range: 0.34"
+      },
+      {
+        "indicator": "Trend_Strength_Composite",
+        "signal": "neutral",
+        "strength": 0.5,
+        "confidence": 0.9,
+        "value": 0.25,
+        "interpretation": "Trend consensus: 0.25"
+      }
+    ],
+    "1wk": [
+      {
+        "indicator": "Bollinger_Band_Analysis",
+        "signal": "expansion",
+        "strength": -0.05672472629820528,
+        "confidence": 0.6,
+        "value": 11.621119079473475,
+        "interpretation": "BB Squeeze: False, Position: -0.06"
+      },
+      {
+        "indicator": "VWAP_Analysis",
+        "signal": "below",
+        "strength": 11.415255604507367,
+        "confidence": 0.7,
+        "value": 22323.824612300334,
+        "interpretation": "Price vs VWAP: -11.42%"
+      },
+      {
+        "indicator": "RSI_Divergence",
+        "signal": "convergence",
+        "strength": 0.5365859344704024,
+        "confidence": 0.4,
+        "value": 23.170703276479884,
+        "interpretation": "RSI: 23.2, Divergence: False"
+      },
+      {
+        "indicator": "MACD_Analysis",
+        "signal": "bearish",
+        "strength": 165.38199700808883,
+        "confidence": 0.7,
+        "value": -320.29281623869974,
+        "interpretation": "MACD: -320.29, Signal: -154.91"
+      },
+      {
+        "indicator": "Volume_Analysis",
+        "signal": "normal",
+        "strength": 0.1897149236510487,
+        "confidence": 0.6,
+        "value": "387727",
+        "interpretation": "Volume vs Average: 0.81x"
+      },
+      {
+        "indicator": "Volatility_Analysis",
+        "signal": "normal",
+        "strength": 0.7649343453533145,
+        "confidence": 0.6,
+        "value": 302.53922839998296,
+        "interpretation": "ATR Ratio: 1.53%"
+      },
+      {
+        "indicator": "Moving_Average_Convergence",
+        "signal": "convergent_bearish",
+        "strength": 1.0,
+        "confidence": 0.8,
+        "value": 21054.93141121161,
+        "interpretation": "SMA vs EMA convergence: True"
+      },
+      {
+        "indicator": "Momentum_Analysis",
+        "signal": "strong_bearish",
+        "strength": 1.516836194736052,
+        "confidence": 0.7,
+        "value": -7.58418097368026,
+        "interpretation": "10-period momentum: -7.58%"
+      },
+      {
+        "indicator": "Support_Resistance_Analysis",
+        "signal": "near_support",
+        "strength": 0.9079737285311444,
+        "confidence": 0.6,
+        "value": 0.04601313573442778,
+        "interpretation": "Position in range: 0.05"
+      },
+      {
+        "indicator": "Trend_Strength_Composite",
+        "signal": "strong_bearish",
+        "strength": 1.0,
+        "confidence": 0.9,
+        "value": 0.0,
+        "interpretation": "Trend consensus: 0.00"
+      }
+    ]
+  },
+  "patterns": {
+    "5m": [
+      {
+        "name": "BULLISH_ENGULFING",
+        "confidence": 0.72,
+        "success_rate": 0.68,
+        "prediction": "bullish",
+        "description": "Bullish engulfing pattern detected"
+      },
+      {
+        "name": "ML_VOLATILITY_CLUSTER",
+        "confidence": 0.6,
+        "success_rate": 0.58,
+        "prediction": "neutral",
+        "description": "ML-detected volatility clustering pattern"
+      }
+    ],
+    "15m": [
+      {
+        "name": "ML_VOLATILITY_CLUSTER",
+        "confidence": 0.6,
+        "success_rate": 0.58,
+        "prediction": "neutral",
+        "description": "ML-detected volatility clustering pattern"
+      }
+    ],
+    "1d": [
+      {
+        "name": "ML_MOMENTUM_PERSISTENCE",
+        "confidence": 0.7,
+        "success_rate": 0.64,
+        "prediction": "bearish",
+        "description": "ML-detected momentum persistence - bearish"
+      }
+    ],
+    "1wk": [
+      {
+        "name": "ML_MEAN_REVERSION",
+        "confidence": 0.65,
+        "success_rate": 0.62,
+        "prediction": "bullish",
+        "description": "ML-detected mean reversion signal - bullish"
+      },
+      {
+        "name": "ML_MOMENTUM_PERSISTENCE",
+        "confidence": 0.7,
+        "success_rate": 0.64,
+        "prediction": "bearish",
+        "description": "ML-detected momentum persistence - bearish"
+      }
+    ]
+  },
+  "predictions": {
+    "5m": {
+      "lstm_prediction": 25609.8738716713,
+      "cnn_prediction": 25567.15866586789,
+      "ensemble_prediction": 25574.562963921475,
+      "confidence": 0.8,
+      "direction": "neutral",
+      "target_price": 25574.562963921475,
+      "risk_assessment": "high",
+      "prediction_change_pct": 0.15538315776810752
+    },
+    "15m": {
+      "lstm_prediction": 27211.28806046623,
+      "cnn_prediction": 27179.320831454683,
+      "ensemble_prediction": 27237.56457629362,
+      "confidence": 0.8,
+      "direction": "neutral",
+      "target_price": 27237.56457629362,
+      "risk_assessment": "high",
+      "prediction_change_pct": -0.3412960843167445
+    },
+    "1d": {
+      "lstm_prediction": 31129.693876539404,
+      "cnn_prediction": 31182.076520542032,
+      "ensemble_prediction": 31156.482473390675,
+      "confidence": 0.3248374816066102,
+      "direction": "neutral",
+      "target_price": 31156.482473390675,
+      "risk_assessment": "high",
+      "prediction_change_pct": -0.03248374816066102
+    },
+    "1wk": {
+      "lstm_prediction": 19625.521978718334,
+      "cnn_prediction": 19563.27783726615,
+      "ensemble_prediction": 19651.843034298476,
+      "confidence": 0.8,
+      "direction": "bearish",
+      "target_price": 19651.843034298476,
+      "risk_assessment": "medium",
+      "prediction_change_pct": -0.6253187996294485
+    }
+  },
+  "models": {
+    "lstm_model": {
+      "type": "LSTM",
+      "layers": [
+        "LSTM(100)",
+        "LSTM(100)",
+        "LSTM(50)",
+        "Dense(25)",
+        "Dense(1)"
+      ],
+      "optimizer": "Adam",
+      "loss": "mse",
+      "status": "initialized"
+    },
+    "cnn_model": {
+      "type": "CNN",
+      "layers": [
+        "Conv1D(64)",
+        "Conv1D(32)",
+        "Conv1D(16)",
+        "Dense(50)",
+        "Dense(1)"
+      ],
+      "optimizer": "Adam",
+      "loss": "binary_crossentropy",
+      "status": "initialized"
+    },
+    "autoencoder": {
+      "type": "Autoencoder",
+      "layers": [
+        "LSTM(50)",
+        "LSTM(25)",
+        "RepeatVector",
+        "LSTM(25)",
+        "LSTM(50)"
+      ],
+      "optimizer": "Adam",
+      "loss": "mse",
+      "status": "initialized"
+    },
+    "ensemble_model": {
+      "type": "Ensemble",
+      "components": [
+        "RandomForest",
+        "GradientBoosting",
+        "LSTM"
+      ],
+      "weights": [
+        0.4,
+        0.3,
+        0.3
+      ],
+      "status": "initialized"
+    }
+  }
+}

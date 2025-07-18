@@ -1,0 +1,237 @@
+🚀 NIFTY 50 - 15 MINUTE ADVANCED ANALYSIS REPORT 🚀
+======================================================================
+Analysis Time: 2025-07-18 04:56:56
+Timeframe: 15-minute candles
+Stocks Analyzed: 50
+
+📊 MARKET SENTIMENT OVERVIEW:
+  📈 Bullish Signals: 31 (62.0%)
+  📉 Bearish Signals: 19 (38.0%)
+  ⚪ Neutral Signals: 0 (0.0%)
+  🤝 ML-PA Agreement: 14/50 (28.0%)
+
+🏆 TOP 10 HIGHEST CONFIDENCE SIGNALS:
+----------------------------------------------------------------------
+ 1. 📉 LICI         | BEARISH  | Conf: 82% 🟢
+    Price: ₹922.15 | ML Magnitude: 5.56% | Patterns: three_black_crows
+
+ 2. 📉 TATAMOTORS   | BEARISH  | Conf: 82% 🟢
+    Price: ₹679.85 | ML Magnitude: 0.03% | Patterns: three_black_crows
+
+ 3. 📉 GRASIM       | BEARISH  | Conf: 82% 🟢
+    Price: ₹2734.40 | ML Magnitude: 0.12% | Patterns: three_black_crows, volume_surge
+
+ 4. 📉 CIPLA        | BEARISH  | Conf: 82% 🟢
+    Price: ₹1473.00 | ML Magnitude: 8.83% | Patterns: three_black_crows
+
+ 5. 📉 ADANIENT     | BEARISH  | Conf: 82% 🟢
+    Price: ₹2591.90 | ML Magnitude: 11.76% | Patterns: three_black_crows
+
+ 6. 📉 SBILIFE      | BEARISH  | Conf: 82% 🟢
+    Price: ₹1763.20 | ML Magnitude: 0.22% | Patterns: three_black_crows, volume_dry_up
+
+ 7. 📉 BEL          | BEARISH  | Conf: 82% 🟢
+    Price: ₹398.50 | ML Magnitude: 6.56% | Patterns: three_black_crows
+
+ 8. 📉 ADANIPORTS   | BEARISH  | Conf: 82% 🟢
+    Price: ₹1432.70 | ML Magnitude: 3.50% | Patterns: marubozu_bearish, three_black_crows
+
+ 9. 📉 SHRIRAMFIN   | BEARISH  | Conf: 82% 🟢
+    Price: ₹657.75 | ML Magnitude: 0.41% | Patterns: three_black_crows
+
+10. 📉 TITAN        | BEARISH  | Conf: 70% 🟡
+    Price: ₹3407.80 | ML Magnitude: 0.02% | Patterns: bearish_engulfing
+
+
+🔍 DETAILED ANALYSIS BY SIGNAL TYPE:
+----------------------------------------------------------------------
+
+📉 STRONG BEARISH SIGNALS (9 stocks):
+  • LICI: 82% confidence
+    ML: BEARISH 5.56% | PA: BEARISH
+    Patterns: three_black_crows
+
+  • TATAMOTORS: 82% confidence
+    ML: BEARISH 0.03% | PA: BEARISH
+    Patterns: three_black_crows
+
+  • GRASIM: 82% confidence
+    ML: BEARISH 0.12% | PA: BEARISH
+    Patterns: three_black_crows, volume_surge
+
+  • CIPLA: 82% confidence
+    ML: BEARISH 8.83% | PA: BEARISH
+    Patterns: three_black_crows
+
+  • ADANIENT: 82% confidence
+    ML: BEARISH 11.76% | PA: BEARISH
+    Patterns: three_black_crows
+
+  • SBILIFE: 82% confidence
+    ML: BEARISH 0.22% | PA: BEARISH
+    Patterns: three_black_crows, volume_dry_up
+
+  • BEL: 82% confidence
+    ML: BEARISH 6.56% | PA: BEARISH
+    Patterns: three_black_crows
+
+  • ADANIPORTS: 82% confidence
+    ML: BEARISH 3.50% | PA: BEARISH
+    Patterns: marubozu_bearish, three_black_crows
+
+  • SHRIRAMFIN: 82% confidence
+    ML: BEARISH 0.41% | PA: BEARISH
+    Patterns: three_black_crows
+
+
+⚠️  CONFLICTING SIGNALS - HIGH RISK (36 stocks):
+  • RELIANCE: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • TCS: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • HDFCBANK: ML=BEARISH vs PA=NEUTRAL
+    Confidence: 57% | Risk: HIGH
+
+  • BHARTIARTL: ML=BULLISH vs PA=NEUTRAL
+    Confidence: 57% | Risk: HIGH
+
+  • ICICIBANK: ML=BULLISH vs PA=NEUTRAL
+    Confidence: 57% | Risk: HIGH
+
+  • SBIN: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • INFY: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • ITC: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • LT: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • KOTAKBANK: ML=BULLISH vs PA=NEUTRAL
+    Confidence: 57% | Risk: HIGH
+
+  • AXISBANK: ML=BEARISH vs PA=NEUTRAL
+    Confidence: 57% | Risk: HIGH
+
+  • ASIANPAINT: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • MARUTI: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • SUNPHARMA: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • ONGC: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • NTPC: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • BAJFINANCE: ML=BULLISH vs PA=NEUTRAL
+    Confidence: 57% | Risk: HIGH
+
+  • POWERGRID: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • COALINDIA: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • BAJAJFINSV: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • JSWSTEEL: ML=BULLISH vs PA=NEUTRAL
+    Confidence: 57% | Risk: HIGH
+
+  • HINDALCO: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • APOLLOHOSP: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • HEROMOTOCO: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • DIVISLAB: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • EICHERMOT: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • DRREDDY: ML=BEARISH vs PA=NEUTRAL
+    Confidence: 57% | Risk: HIGH
+
+  • BRITANNIA: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • BAJAJ-AUTO: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • TRENT: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • INDUSINDBK: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • TATASTEEL: ML=BULLISH vs PA=NEUTRAL
+    Confidence: 57% | Risk: HIGH
+
+  • TECHM: ML=BEARISH vs PA=NEUTRAL
+    Confidence: 57% | Risk: HIGH
+
+  • HDFCLIFE: ML=BULLISH vs PA=BEARISH
+    Confidence: 57% | Risk: HIGH
+
+  • WIPRO: ML=BEARISH vs PA=NEUTRAL
+    Confidence: 57% | Risk: HIGH
+
+  • NESTLEIND: ML=BULLISH vs PA=NEUTRAL
+    Confidence: 56% | Risk: HIGH
+
+
+🕯️  MOST FREQUENT CANDLESTICK PATTERNS:
+  • Three Black Crows: 19 occurrences
+  • Volume Surge: 6 occurrences
+  • Volume Dry Up: 4 occurrences
+  • Spinning Top: 4 occurrences
+  • Marubozu Bearish: 3 occurrences
+  • Bearish Engulfing: 3 occurrences
+  • Hanging Man: 3 occurrences
+  • Doji: 3 occurrences
+  • Harami Bearish: 2 occurrences
+  • Evening Star: 2 occurrences
+
+
+💡 ACTIONABLE TRADING RECOMMENDATIONS:
+----------------------------------------------------------------------
+
+🎯 IMMEDIATE SHORT CANDIDATES (Next 1 hour):
+  • LICI: Entry around ₹922.15
+    Target: -5.56% | Risk: LOW
+
+  • TATAMOTORS: Entry around ₹679.85
+    Target: -0.03% | Risk: LOW
+
+  • GRASIM: Entry around ₹2734.40
+    Target: -0.12% | Risk: LOW
+
+  • CIPLA: Entry around ₹1473.00
+    Target: -8.83% | Risk: LOW
+
+  • ADANIENT: Entry around ₹2591.90
+    Target: -11.76% | Risk: LOW
+
+
+🛡️  RISK MANAGEMENT GUIDELINES:
+  • High Confidence (>80%): Risk 2-3% of capital per trade
+  • Medium Confidence (60-80%): Risk 1-2% of capital per trade
+  • Low Confidence (<60%): Risk 0.5-1% of capital per trade
+  • Conflicting Signals: Avoid or use very tight stops
+  • Always use stop losses: 1-2% for 15-min trades
+
+⚠️  DISCLAIMER: This analysis is for educational purposes. Always do your own research!

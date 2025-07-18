@@ -1,0 +1,173 @@
+================================================================================
+🚀 COMPREHENSIVE INDIAN MID-CAP & SMALL-CAP 20-YEAR ANALYSIS 🚀
+================================================================================
+Analysis Date: 2025-07-18 05:14:33
+Timeframe: Weekly (20 Years)
+Universe: Mid-Cap & Small-Cap Stocks
+
+📊 ANALYSIS SUMMARY
+------------------------------
+Total Stocks Analyzed: 316
+Failed Analysis: 18
+Success Rate: 94.6%
+
+🎯 TOP ACCUMULATION OPPORTUNITIES
+----------------------------------------
+INDUSINDBK.NS   | Sector: BANKING      | Score: 0.853 | Bullish: 0.250 | Price: ₹865.10
+MRF.NS          | Sector: UNKNOWN      | Score: 0.842 | Bullish: 0.250 | Price: ₹150306.00
+ITC.NS          | Sector: FMCG         | Score: 0.842 | Bullish: 0.500 | Price: ₹423.95
+ASIANPAINT.NS   | Sector: UNKNOWN      | Score: 0.837 | Bullish: 0.250 | Price: ₹2398.90
+BRITANNIA.NS    | Sector: FMCG         | Score: 0.837 | Bullish: 0.500 | Price: ₹5807.50
+DABUR.NS        | Sector: FMCG         | Score: 0.836 | Bullish: 0.250 | Price: ₹523.45
+TATACHEM.NS     | Sector: CHEMICALS    | Score: 0.836 | Bullish: 0.250 | Price: ₹938.45
+KOTAKBANK.NS    | Sector: BANKING      | Score: 0.835 | Bullish: 0.500 | Price: ₹2168.30
+ULTRACEMCO.NS   | Sector: UNKNOWN      | Score: 0.835 | Bullish: 0.500 | Price: ₹12495.00
+OFSS.NS         | Sector: ITSERVICES   | Score: 0.835 | Bullish: 0.500 | Price: ₹8745.00
+M&M.NS          | Sector: AUTO         | Score: 0.833 | Bullish: 0.500 | Price: ₹3195.00
+POWERGRID.NS    | Sector: ENERGY       | Score: 0.832 | Bullish: 0.500 | Price: ₹296.60
+ACC.NS          | Sector: UNKNOWN      | Score: 0.831 | Bullish: 0.250 | Price: ₹1978.80
+BOSCHLTD.NS     | Sector: UNKNOWN      | Score: 0.828 | Bullish: 0.500 | Price: ₹38645.00
+DRREDDY.NS      | Sector: PHARMA       | Score: 0.828 | Bullish: 0.500 | Price: ₹1263.10
+SIEMENS.NS      | Sector: UNKNOWN      | Score: 0.827 | Bullish: 0.250 | Price: ₹3110.30
+RELIANCE.NS     | Sector: ENERGY       | Score: 0.826 | Bullish: 0.500 | Price: ₹1476.40
+PIDILITIND.NS   | Sector: CHEMICALS    | Score: 0.826 | Bullish: 0.500 | Price: ₹2992.30
+HEROMOTOCO.NS   | Sector: AUTO         | Score: 0.826 | Bullish: 0.500 | Price: ₹4443.60
+CIPLA.NS        | Sector: PHARMA       | Score: 0.824 | Bullish: 0.500 | Price: ₹1482.40
+
+📈 TOP BULLISH TREND CANDIDATES
+----------------------------------------
+ICICIGI.NS      | Sector: UNKNOWN      | Bullish: 1.000 | RSI:  54.48 | Volume: 1.28x
+JBCHEPHARM.NS   | Sector: UNKNOWN      | Bullish: 1.000 | RSI:  49.00 | Volume: 1.58x
+BALKRISIND.NS   | Sector: CHEMICALS    | Bullish: 1.000 | RSI:  56.73 | Volume: 1.49x
+BASF.NS         | Sector: UNKNOWN      | Bullish: 0.750 | RSI:  53.28 | Volume: 0.47x
+GULFOILLUB.NS   | Sector: UNKNOWN      | Bullish: 0.750 | RSI:  56.41 | Volume: 0.52x
+GRASIM.NS       | Sector: UNKNOWN      | Bullish: 0.750 | RSI:  56.25 | Volume: 1.37x
+CASTROLIND.NS   | Sector: UNKNOWN      | Bullish: 0.750 | RSI:  56.96 | Volume: 1.30x
+METROPOLIS.NS   | Sector: UNKNOWN      | Bullish: 0.750 | RSI:  63.79 | Volume: 3.89x
+HCLTECH.NS      | Sector: TECH         | Bullish: 0.750 | RSI:  42.27 | Volume: 1.97x
+ANANTRAJ.NS     | Sector: UNKNOWN      | Bullish: 0.750 | RSI:  55.41 | Volume: 1.88x
+TORNTPHARM.NS   | Sector: PHARMA       | Bullish: 0.750 | RSI:  62.58 | Volume: 1.28x
+TECHM.NS        | Sector: TECH         | Bullish: 0.750 | RSI:  51.64 | Volume: 1.40x
+LICHSGFIN.NS    | Sector: UNKNOWN      | Bullish: 0.750 | RSI:  58.40 | Volume: 1.35x
+AJANTPHARM.NS   | Sector: PHARMA       | Bullish: 0.750 | RSI:  55.95 | Volume: 2.11x
+DSSL.NS         | Sector: UNKNOWN      | Bullish: 0.750 | RSI:  45.61 | Volume: 0.47x
+AGRITECH.NS     | Sector: UNKNOWN      | Bullish: 0.750 | RSI:  42.50 | Volume: 1.22x
+GLOBUSSPR.NS    | Sector: UNKNOWN      | Bullish: 0.750 | RSI:  58.60 | Volume: 1.42x
+BDL.NS          | Sector: UNKNOWN      | Bullish: 0.750 | RSI:  57.74 | Volume: 0.38x
+GODFRYPHLP.NS   | Sector: UNKNOWN      | Bullish: 0.750 | RSI:  65.33 | Volume: 3.40x
+AHLEAST.NS      | Sector: UNKNOWN      | Bullish: 0.750 | RSI:  64.80 | Volume: 0.92x
+
+🏭 SECTOR-WISE PERFORMANCE
+-----------------------------------
+AUTO         | Stocks:   9 | Avg Score: 0.739 | Bullish: 0.500
+BANKING      | Stocks:  10 | Avg Score: 0.710 | Bullish: 0.450
+CHEMICALS    | Stocks:   8 | Avg Score: 0.698 | Bullish: 0.469
+ENERGY       | Stocks:   9 | Avg Score: 0.739 | Bullish: 0.500
+FMCG         | Stocks:   9 | Avg Score: 0.797 | Bullish: 0.472
+ITSERVICES   | Stocks:   5 | Avg Score: 0.613 | Bullish: 0.400
+METALS       | Stocks:   9 | Avg Score: 0.663 | Bullish: 0.500
+PHARMA       | Stocks:   9 | Avg Score: 0.729 | Bullish: 0.583
+REALTY       | Stocks:   6 | Avg Score: 0.618 | Bullish: 0.500
+TECH         | Stocks:   8 | Avg Score: 0.744 | Bullish: 0.531
+UNKNOWN      | Stocks: 234 | Avg Score: 0.643 | Bullish: 0.480
+
+🔄 SECTOR ROTATION RANKINGS
+-----------------------------------
+ 1. PHARMA       | Score:    0.134 | Positive: 5/9 stocks
+ 2. REALTY       | Score:    0.039 | Positive: 5/6 stocks
+ 3. ENERGY       | Score:    0.039 | Positive: 7/9 stocks
+ 4. BANKING      | Score:    0.034 | Positive: 9/10 stocks
+ 5. METALS       | Score:    0.022 | Positive: 5/9 stocks
+ 6. FMCG         | Score:    0.011 | Positive: 6/9 stocks
+ 7. AUTO         | Score:    0.010 | Positive: 4/9 stocks
+ 8. ITSERVICES   | Score:    0.005 | Positive: 2/6 stocks
+ 9. CHEMICALS    | Score:    0.003 | Positive: 3/8 stocks
+10. TECH         | Score:   -0.039 | Positive: 2/8 stocks
+
+🔊 HIGH VOLUME ACCUMULATION STOCKS
+----------------------------------------
+GLENMARK.NS     | Volume:  1.96x | Accumulation: 0.493 | Breakouts: 62
+INDIAMART.NS    | Volume:  1.76x | Accumulation: 0.484 | Breakouts: 7
+GODFRYPHLP.NS   | Volume:  3.40x | Accumulation: 0.452 | Breakouts: 39
+BOSCHLTD.NS     | Volume:  1.62x | Accumulation: 0.428 | Breakouts: 40
+PEL.NS          | Volume:  3.60x | Accumulation: 0.428 | Breakouts: 50
+HCLTECH.NS      | Volume:  1.97x | Accumulation: 0.423 | Breakouts: 64
+ICICIPRULI.NS   | Volume:  1.99x | Accumulation: 0.415 | Breakouts: 14
+GLAND.NS        | Volume:  2.68x | Accumulation: 0.412 | Breakouts: 2
+CHALET.NS       | Volume:  1.80x | Accumulation: 0.412 | Breakouts: 21
+JBCHEPHARM.NS   | Volume:  1.58x | Accumulation: 0.405 | Breakouts: 58
+ANANTRAJ.NS     | Volume:  1.88x | Accumulation: 0.396 | Breakouts: 67
+AJANTPHARM.NS   | Volume:  2.11x | Accumulation: 0.390 | Breakouts: 82
+CERA.NS         | Volume:  2.31x | Accumulation: 0.389 | Breakouts: 56
+BIOCON.NS       | Volume:  1.96x | Accumulation: 0.389 | Breakouts: 50
+HEIDELBERG.NS   | Volume:  1.77x | Accumulation: 0.380 | Breakouts: 38
+
+🕯️ CANDLESTICK PATTERN ANALYSIS
+----------------------------------------
+Stocks with Bullish Engulfing: 316
+Stocks with Hammer Patterns: 315
+Stocks with Doji Patterns: 316
+
+⚡ STRONG TECHNICAL SETUPS
+-----------------------------------
+CASTROLIND.NS   | UNKNOWN      | Setup Score: 0.799 | RSI:  56.96 | 200MA: +46.44%
+GRASIM.NS       | UNKNOWN      | Setup Score: 0.798 | RSI:  56.25 | 200MA: +36.87%
+HCLTECH.NS      | TECH         | Setup Score: 0.787 | RSI:  42.27 | 200MA: +22.16%
+TORNTPHARM.NS   | PHARMA       | Setup Score: 0.742 | RSI:  62.58 | 200MA: +61.78%
+TECHM.NS        | TECH         | Setup Score: 0.733 | RSI:  51.64 | 200MA: +23.97%
+SHREECEM.NS     | UNKNOWN      | Setup Score: 0.701 | RSI:  57.73 | 200MA: +21.58%
+ICICIGI.NS      | UNKNOWN      | Setup Score: 0.698 | RSI:  54.48 | 200MA: +31.56%
+HEIDELBERG.NS   | UNKNOWN      | Setup Score: 0.694 | RSI:  56.24 | 200MA: +11.38%
+PETRONET.NS     | UNKNOWN      | Setup Score: 0.693 | RSI:  53.71 | 200MA: +28.52%
+GODFRYPHLP.NS   | UNKNOWN      | Setup Score: 0.675 | RSI:  65.33 | 200MA: +201.88%
+BIOCON.NS       | PHARMA       | Setup Score: 0.657 | RSI:  63.69 | 200MA: +30.12%
+BALKRISIND.NS   | CHEMICALS    | Setup Score: 0.656 | RSI:  56.73 | 200MA: +14.24%
+GULFOILLUB.NS   | UNKNOWN      | Setup Score: 0.656 | RSI:  56.41 | 200MA: +76.86%
+LICHSGFIN.NS    | UNKNOWN      | Setup Score: 0.655 | RSI:  58.40 | 200MA: +33.07%
+DSSL.NS         | UNKNOWN      | Setup Score: 0.654 | RSI:  45.61 | 200MA: +53.89%
+JUSTDIAL.NS     | UNKNOWN      | Setup Score: 0.631 | RSI:  47.06 | 200MA:  +9.13%
+NAUKRI.NS       | UNKNOWN      | Setup Score: 0.630 | RSI:  44.76 | 200MA: +27.16%
+BDL.NS          | UNKNOWN      | Setup Score: 0.630 | RSI:  57.74 | 200MA: +129.73%
+ICICIPRULI.NS   | UNKNOWN      | Setup Score: 0.625 | RSI:  53.93 | 200MA: +13.81%
+JBCHEPHARM.NS   | UNKNOWN      | Setup Score: 0.622 | RSI:  49.00 | 200MA: +28.10%
+AHLEAST.NS      | UNKNOWN      | Setup Score: 0.620 | RSI:  64.80 | 200MA: +29.16%
+HSCL.NS         | UNKNOWN      | Setup Score: 0.619 | RSI:  56.70 | 200MA: +106.61%
+ANANTRAJ.NS     | UNKNOWN      | Setup Score: 0.619 | RSI:  55.41 | 200MA: +109.73%
+BASF.NS         | UNKNOWN      | Setup Score: 0.617 | RSI:  53.28 | 200MA: +40.17%
+CERA.NS         | UNKNOWN      | Setup Score: 0.617 | RSI:  58.84 | 200MA:  +9.99%
+AJANTPHARM.NS   | PHARMA       | Setup Score: 0.617 | RSI:  55.95 | 200MA: +49.99%
+ARVINDFASN.NS   | UNKNOWN      | Setup Score: 0.609 | RSI:  56.68 | 200MA: +30.32%
+GLOBUSSPR.NS    | UNKNOWN      | Setup Score: 0.607 | RSI:  58.60 | 200MA: +11.18%
+INDIAMART.NS    | UNKNOWN      | Setup Score: 0.605 | RSI:  65.39 | 200MA:  +1.45%
+AGRITECH.NS     | UNKNOWN      | Setup Score: 0.604 | RSI:  42.50 | 200MA:  +4.72%
+METROPOLIS.NS   | UNKNOWN      | Setup Score: 0.603 | RSI:  63.79 | 200MA:  +8.66%
+
+⚠️ RISK CONSIDERATIONS
+-------------------------
+Overbought Stocks (RSI > 70): 20
+Weak vs 200MA (< -20%): 17
+
+❌ STOCKS WITH INSUFFICIENT DATA
+----------------------------------------
+  • GET&D.NS
+  • ANILAGR.NS
+  • BBLTD.NS
+  • MINDTREE.NS
+  • GMRINFRA.NS
+  • IDFC.NS
+  • CENTURYTEX.NS
+  • ADANITRANS.NS
+  • IBULHSGFIN.NS
+  • ESSELPACK.NS
+  • JUBLINDS.NS
+  • HDFC.NS
+  • AEGISCHEM.NS
+  • CADILAHC.NS
+  • SRTRANSFIN.NS
+  • MCDOWELL-N.NS
+  • AVANTI.NS
+  • ISEC.NS
+
+================================================================================
+📝 ANALYSIS COMPLETE - Data saved for further processing
+================================================================================
